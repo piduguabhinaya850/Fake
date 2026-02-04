@@ -1,4 +1,5 @@
- # Fake News Detection using Machine Learning
+ # Mitigation national security risk posed by large language models in AI driven malign information operations 
+ #Fake News Detection using Machine Learning
 
 ## Project Overview
 This project detects whether a given text or news is REAL or FAKE using
